@@ -26,17 +26,18 @@ Streamlit is an open source app framework in Python language. It helps us create
 
 There are some packages 📦 that are required to run this project
 
-> ``` pip install numpy```
+>  pip install numpy
 > 
-> ``` pip install openpyxl```
+>  pip install openpyxl
 > 
-> ``` pip install pandas```
+>  pip install pandas
 >
-> ``` pip install streamlit```
+>  pip install streamlit
 >
-> ``` pip install plotly-express```
+>  pip install plotly-express
 
-
+### ✔ ```Note```  To run the app.py file we need to execute the following command
+>  streamlit run app.py
 ---
 
 ## License
