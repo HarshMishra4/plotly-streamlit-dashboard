@@ -12,7 +12,7 @@
 
 This project is a simple Data visualization project, that plots charts with the help of Streamlit library.
 
-### Quick introduction about Streamlit ⛵:
+### Quick introduction about Streamlit ⛵
 Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc.
 
 ## Tech Stack 👨🏻‍💻
@@ -27,6 +27,8 @@ Streamlit is an open source app framework in Python language. It helps us create
 There are some packages 📦 that are required to run this project
 
 > ``` pip install numpy```
+> 
+> ``` pip install openpyxl```
 > 
 > ``` pip install pandas```
 >
